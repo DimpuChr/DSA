@@ -1,0 +1,12 @@
+
+]	java:S125	"<This block of commented-out lines of code should be removed.(‘­à¹úÿÿÿÿ8ÉçŒÒ†2
+L	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8ËçŒÒ†2
+L	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8ËçŒÒ†2
+L	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8ËçŒÒ†2
+G	java:S106"+Replace this use of System.out by a logger.(Ş™İß8ÌçŒÒ†2
+L	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8ÍçŒÒ†2
+L	java:S106#"+Replace this use of System.out by a logger.(÷ÚËÈùÿÿÿÿ8êé’Ò†2
+Q
+java:S1128"4Remove this unused import 'java.io.FileInputStream'.(˜³ÉÓ8êé’Ò†2
+P
+java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ8êé’Ò†2

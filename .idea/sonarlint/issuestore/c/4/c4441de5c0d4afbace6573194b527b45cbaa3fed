@@ -1,0 +1,5 @@
+
+G	java:S106"+Replace this use of System.out by a logger.(ïµğ8ÍÚ»ª„2
+X	java:S125"<This block of commented-out lines of code should be removed.(ÍÿíÍ8şÈÉª„2
+c
+java:S1126"AReplace this if-then-else statement by a single return statement.(Ìãñüÿÿÿÿ8…„»ª„2

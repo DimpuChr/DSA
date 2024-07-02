@@ -1,0 +1,101 @@
+What is Time Complexity -> the function that gives us the relationship about how the time grows as the input grows
+
+Always look for worst complexity
+Always look at complexity for large data
+Even two values of actual time is diff they are all going linearly
+we don't care about actual time , this is why we ignore the constants
+Always ignore less dominant terms
+
+Example suppose O(3N3 + 4N2 + 5N + 6)
+first rule ignore constants ========>  O(N3+N2+N)
+second rule ignore less dominating terms ========> N2 and N ignored
+Finally the Time complexity is ========> O(N3)
+
+O(1) < O(logN) < O(N) < O(2N)
+
+Big O notations suppose if it takes O(N3) means this is the upper bound  and algorithm won't exceed this
+Big Omega it is reverse to Big O , Omega(N3) means minimum lower bound , algorthm take minum this bound it may exceed for larger inputs
+
+
+Space Complexity of an algorithm is total space taken by the algorithm with respect to the input size.
+space complexity includes both Auxiliary space and space used by the input
+space complexity of recursive program is O(N) => Height of tree (Path of tree)
+
+ two types of recursion
+ 1: Linear (Example fibonacci: fibo(n-1) + fibo (n-2))
+ 2: Divide Conquere (Ex: Binary Serach f(N) = f(N/2) + O(1)
+
+ T(x) = a1T(b1x + fun1(n)) + a2T(b2x + func2(n)) + ......................+ akT(bkx = funck(n1)) + g(n)
+
+ How to actually solve to get complexity of divide and conquere recurence relation
+ 1. Plug and chy
+ 2. Master's Theorem
+ Akra Bazzi (1996)
+
+ Akrabazi formula
+
+ T(x) = Θ (xp +xp /1x g(u)/up+1 du)
+ p = a1b1p + a2b2p + .......+= 1;
+
+ aibiP= 1
+
+......
+∫f(x)dx=F(x)+C
+
+
+∫x
+n
+ dx=
+n+1
+x
+n+1
+
+​
+ +C(for n
+
+=−1)
+...................
+
+sippose not able to find the value of P
+.......
+
+ How to actually solve to get complexity of Linear recurences
+
+ a1f(x-1) + a2f(x-2) + .........+ anf(x-n);
+
+ aif(x-i)
+
+ .
+ nth fibonacci numner golder ratio (1+routr5/2)n
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,12 @@
+
+[
+java:S1854"9Remove this useless assignment to local variable "count".(¢™Œ½üÿÿÿÿ8ÊÎÏËü1
+W
+java:S1854&":Remove this useless assignment to local variable "count1".(ˆ¼Ğ‚8Ô”ÑËü1
+L	java:S106"+Replace this use of System.out by a logger.(³õ»ûÿÿÿÿ8ÌÎÏËü1
+G	java:S106)"+Replace this use of System.out by a logger.(¦±ûÎ8ó¾ÑËü1
+L	java:S1068"+Replace this use of System.out by a logger.(îêšûıÿÿÿÿ8Ëà¡Îü1
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8®Îü1
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8®Îü1

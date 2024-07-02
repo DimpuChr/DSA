@@ -1,0 +1,6 @@
+
+G	java:S106""+Replace this use of System.out by a logger.(½ÛÃÒ8æÜŒ€„2
+L	java:S1065"+Replace this use of System.out by a logger.(»æ“áøÿÿÿÿ8çÜŒ€„2
+G	java:S1068"+Replace this use of System.out by a logger.(¨¹®œ8À×’€„2
+J
+java:S1068?"(Remove this unused "prev" private field.(Ã¿Ù×ùÿÿÿÿ8èÜŒ€„2

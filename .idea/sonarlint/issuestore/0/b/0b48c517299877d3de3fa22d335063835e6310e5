@@ -1,0 +1,17 @@
+
+Z
+java:S1854"8Remove this useless assignment to local variable "list".(¤Êí…ýÿÿÿÿ8¤¶Ö¦ü1
+X	java:S125"<This block of commented-out lines of code should be removed.(Í¼³8¦¶Ö¦ü1
+G	java:S106"+Replace this use of System.out by a logger.(Ù©È±8¦¶Ö¦ü1
+L	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ8§¶Ö¦ü1
+F	java:S106"+Replace this use of System.out by a logger.(¬ÒÍ8§¶Ö¦ü1
+L	java:S106"+Replace this use of System.out by a logger.(Óºâ’üÿÿÿÿ8¨¶Ö¦ü1
+L	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ8¨¶Ö¦ü1
+K
+java:S1481")Remove this unused "list" local variable.(¤Êí…ýÿÿÿÿ8©¶Ö¦ü1
+L	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ8©¶Ö¦ü1
+L	java:S106)"+Replace this use of System.out by a logger.(¨¡úÍùÿÿÿÿ8ª¶Ö¦ü1
+G	java:S1062"+Replace this use of System.out by a logger.(´Ñí˜8ÁêÙ¦ü1
+L	java:S1065"+Replace this use of System.out by a logger.(êŒ³Áüÿÿÿÿ8ø£¬«ü1
+L	java:S106@"+Replace this use of System.out by a logger.(êŒ³Áüÿÿÿÿ8×Ô±«ü1
+G	java:S106D"+Replace this use of System.out by a logger.(‚ãÑÕ8–Š²«ü1
