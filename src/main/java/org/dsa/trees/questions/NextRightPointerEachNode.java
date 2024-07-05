@@ -9,7 +9,21 @@ public class NextRightPointerEachNode {
     //[1,2,3,4,5,6,7] => [1,#,2,3,#,4,5,6,7,#]
 
 
-
+    public TreeNode nextRightPointer(TreeNode root){
+        TreeNode leftMostNode = root;
+        while (leftMostNode.left != null){
+            TreeNode current = leftMostNode;
+            while(current != null){
+                current.left.next = current.right;
+                if(current.next != null){
+                    current.right.next = current.next.right;
+                }
+                current = current.next;
+            }
+            leftMostNode = leftMostNode.left;
+        }
+        return root;
+    }
 
     public class TreeNode{
 
