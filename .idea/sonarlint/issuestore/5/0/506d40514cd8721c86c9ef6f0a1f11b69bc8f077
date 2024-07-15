@@ -1,9 +1,0 @@
-
-
-java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(«È¬¦8ïš™†2
-L	java:S106"+Replace this use of System.out by a logger.(²æõâşÿÿÿÿ8õš™†2
-L	java:S106"+Replace this use of System.out by a logger.(ÄËÃ˜üÿÿÿÿ8öš™†2
-G	java:S106!"+Replace this use of System.out by a logger.(ªÉÉñ8÷š™†2
-L	java:S106&"+Replace this use of System.out by a logger.(îãæÁşÿÿÿÿ8øš™†2
-G	java:S106)"+Replace this use of System.out by a logger.(şÖíœ8øš™†2
-G	java:S1067"+Replace this use of System.out by a logger.(Øğ„Æ8úš™†2

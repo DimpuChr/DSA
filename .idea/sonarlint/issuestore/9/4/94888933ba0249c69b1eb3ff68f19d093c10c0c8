@@ -1,0 +1,12 @@
+
+L
+java:S1066."/Merge this if statement with the enclosing one.(†ñê8™²ûÈˆ2
+b
+java:S2184""ECast one of the operands of this subtraction operation to a "double".(¤Üı¡8š²ûÈˆ2
+p	java:S116"TRename this field "PRIME_NUM" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÌûÊ˜8ï²ûÈˆ2
+>
+java:S1170"!Make this final field static too.(ÌûÊ˜8ï²ûÈˆ2
+L	java:S106/"+Replace this use of System.out by a logger.(µÚ¬Ûøÿÿÿÿ8ø²ûÈˆ2
+G	java:S106B"+Replace this use of System.out by a logger.(ïáà˜8ù²ûÈˆ2
+G	java:S106C"+Replace this use of System.out by a logger.(ŠÀ—Ü8ù²ûÈˆ2
+L	java:S106D"+Replace this use of System.out by a logger.(”öÛøÿÿÿÿ8ú²ûÈˆ2
