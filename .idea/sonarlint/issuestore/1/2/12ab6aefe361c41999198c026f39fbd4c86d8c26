@@ -1,0 +1,8 @@
+
+7
+java:S1116&"Remove this empty statement.(ôŸŽìúÿÿÿÿ
+@	java:S106@"+Replace this use of System.out by a logger.(ÀÎº‚
+E	java:S106B"+Replace this use of System.out by a logger.(¿ÍÉºúÿÿÿÿ
+E	java:S106C"+Replace this use of System.out by a logger.(™Úæáûÿÿÿÿ
+P
+java:S1128"5Remove this unused import 'com.sun.source.tree.Tree'.(·óƒüýÿÿÿÿ

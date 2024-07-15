@@ -1,12 +1,14 @@
 
-]	java:S125	"<This block of commented-out lines of code should be removed.(‘­à¹úÿÿÿÿ8ÉçŒÒ†2
-L	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8ËçŒÒ†2
-L	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8ËçŒÒ†2
-L	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8ËçŒÒ†2
-G	java:S106"+Replace this use of System.out by a logger.(Ş™İß8ÌçŒÒ†2
-L	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8ÍçŒÒ†2
-L	java:S106#"+Replace this use of System.out by a logger.(÷ÚËÈùÿÿÿÿ8êé’Ò†2
-Q
-java:S1128"4Remove this unused import 'java.io.FileInputStream'.(˜³ÉÓ8êé’Ò†2
-P
-java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ8êé’Ò†2
+]	java:S125"<This block of commented-out lines of code should be removed.(‘­à¹úÿÿÿÿ8×¸ïÀˆ2
+X	java:S125"<This block of commented-out lines of code should be removed.(¢»Ô8×¸ïÀˆ2
+G	java:S1062"+Replace this use of System.out by a logger.(û“—ú8Ù¸ïÀˆ2
+L	java:S1064"+Replace this use of System.out by a logger.(™ïüÏÿÿÿÿÿ8Ú¸ïÀˆ2
+L	java:S106:"+Replace this use of System.out by a logger.(èŸ¥•ıÿÿÿÿ8Û¸ïÀˆ2
+L	java:S106;"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8Û¸ïÀˆ2
+L	java:S106="+Replace this use of System.out by a logger.(ßŸ¡şÿÿÿÿ8Û¸ïÀˆ2
+I
+java:S2201@",The return value of "contains" must be used.(¯óóì8İ¸ïÀˆ2
+R
+java:S1128"5Remove this unused import 'org.dsa.trees.basics.AVL'.(ÜİÑŒ8ß¸ïÀˆ2
+W
+java:S1128"5Remove this unused import 'org.dsa.trees.basics.BST'.(­¾¶¥úÿÿÿÿ8ß¸ïÀˆ2
