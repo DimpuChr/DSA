@@ -1,10 +1,13 @@
 package org.dsa.stackqueue;
 
-import java.util.Stack;
+import org.dsa.stackqueue.basics.CustomDynamicStack;
+import org.dsa.stackqueue.basics.CustomQueue;
+import org.dsa.stackqueue.basics.CustomStack;
+import org.dsa.stackqueue.basics.CustomStackGeneric;
 
 public class Main {
 
-    public static void main(String[] args) {
+    public static void main(String[] args) throws Exception {
 
         CustomStack stack = new CustomStack();
         stack.push(12);
@@ -36,5 +39,16 @@ public class Main {
         stack2.push("Kohli");
         stack2.push("Kohlwww");
         System.out.println(stack2.pop());
+
+        System.out.println("::::::::::::::::::::Queue::::::::::::::");
+        CustomQueue queue = new CustomQueue();
+        queue.insert(12);
+        queue.insert(24);
+        queue.insert(74);
+        queue.insert(15);
+        queue.insert(36);
+        queue.display();
+        System.out.println(queue.remove());
+        queue.display();
     }
 }

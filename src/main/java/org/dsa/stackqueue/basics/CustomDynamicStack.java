@@ -1,6 +1,4 @@
-package org.dsa.stackqueue;
-
-import java.util.Arrays;
+package org.dsa.stackqueue.basics;
 
 public class CustomDynamicStack<T> extends CustomStackGeneric{
 
