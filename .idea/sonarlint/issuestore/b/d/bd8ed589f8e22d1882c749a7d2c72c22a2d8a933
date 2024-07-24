@@ -1,15 +1,21 @@
 
+{	java:S135º"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ8·ıÑÿ2
 c
-java:S2259¹"EA "NullPointerException" could be thrown; "current" is nullable here.(Ğı‹8ùıªÑ…2
+java:S2259È"EA "NullPointerException" could be thrown; "current" is nullable here.(Ğı‹8‰şÑÿ2
+c
+java:S2259Ç"EA "NullPointerException" could be thrown; "current" is nullable here.(Ğı‹8‰şÑÿ2
 f
-java:S2259Â"CA "NullPointerException" could be thrown; "first" is nullable here.(ÿ¶ßûûÿÿÿÿ8úıªÑ…2
-L	java:S1061"+Replace this use of System.out by a logger.(ÿì„çÿÿÿÿÿ8“şªÑ…2
-G	java:S1064"+Replace this use of System.out by a logger.(¨¹®œ8”şªÑ…2
-X	java:S125w"<This block of commented-out lines of code should be removed.(‰¬®ô8¬şªÑ…2
+java:S2259Â"CA "NullPointerException" could be thrown; "first" is nullable here.(ÿ¶ßûûÿÿÿÿ8‰şÑÿ2
+L	java:S1061"+Replace this use of System.out by a logger.(ÿì„çÿÿÿÿÿ8şÑÿ2
+G	java:S1064"+Replace this use of System.out by a logger.(¨¹®œ8şÑÿ2
+X	java:S125w"<This block of commented-out lines of code should be removed.(‰¬®ô8•şÑÿ2
 [
-java:S1854×"8Remove this useless assignment to local variable "node".(¬¼ıÿÿÿÿ8ÂşªÑ…2
+java:S1854×"8Remove this useless assignment to local variable "node".(¬¼ıÿÿÿÿ8›şÑÿ2
 L
-java:S1481×")Remove this unused "node" local variable.(¬¼ıÿÿÿÿ8ÄşªÑ…2
+java:S1481×")Remove this unused "node" local variable.(¬¼ıÿÿÿÿ8›şÑÿ2
 T
-java:S1117æ"7Rename "tail" which hides the field declared at line 6.(‹çA8ĞşªÑ…2
-^	java:S125ã"<This block of commented-out lines of code should be removed.(ÿì¹ÿıÿÿÿÿ8âşªÑ…2
+java:S1117æ"7Rename "tail" which hides the field declared at line 6.(‹çA8œşÑÿ2
+^	java:S125õ"<This block of commented-out lines of code should be removed.(®¢•·üÿÿÿÿ8şÑÿ2
+^	java:S125ñ"<This block of commented-out lines of code should be removed.(ÿì¹ÿıÿÿÿÿ8¡şÑÿ2
+u
+java:S3776¶"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(û÷ƒŞøÿÿÿÿ8¤şÑÿ2

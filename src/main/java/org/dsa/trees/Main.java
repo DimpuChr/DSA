@@ -4,18 +4,40 @@ import org.dsa.trees.basics.AVL;
 import org.dsa.trees.basics.BST;
 import org.dsa.trees.heaps.HeapsCustom;
 
+import java.util.ArrayList;
+import java.util.Collections;
 import java.util.List;
 
 public class Main {
-    public static void main(String[] args) throws Exception {
+    public static void main(String[] args) {
 
-       /* CustomBinaryTree tree = new CustomBinaryTree();
+        List<List<Integer>> answer = new ArrayList<>();
+        List<Integer> list = new ArrayList<>();
+        list.add(12);
+        list.add(13);
+        List<Integer> list1 = new ArrayList<>();
+        list1.add(22);
+        list1.add(33);
+        answer.add(list);
+        answer.add(list1);
+        System.out.println(answer);
+        List<List<Integer>> answer1 = new ArrayList<>();
+        for (int i = answer.size()-1; i >=0; i--) {
+            answer1.add(answer.get(i));
+        }
+        System.out.println(answer1);
+
+
+    }
+   /* public static void main(String[] args) throws Exception {
+
+       *//* CustomBinaryTree tree = new CustomBinaryTree();
         Scanner scanner = new Scanner(System.in);
         tree.populate(scanner);
         tree.display();
-        System.out.println("::::::::::::::::::::::::::::");*/
+        System.out.println("::::::::::::::::::::::::::::");*//*
 
-        /*BST bst = new BST();
+        *//*BST bst = new BST();
         int[] nums = {5,2,7,1,4,6,9,8,3,10};
         bst.populate(nums);
         bst.display();
@@ -36,7 +58,7 @@ public class Main {
         }
 
         System.out.println(avl.height());
-*/
+*//*
 
         try {
             HeapsCustom<Integer> heap = new HeapsCustom<>();
@@ -65,7 +87,9 @@ public class Main {
         } catch (Exception e) {
             e.printStackTrace();
         }
-    }
+    }*/
+
+
 
 
 }

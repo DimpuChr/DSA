@@ -40,6 +40,9 @@ public class ValidBST {
         TreeNode root1 = new TreeNode(2);
         root1.left = new TreeNode(1);
         root1.right = new TreeNode(3);
+        ValidBST bst = new ValidBST();
+        bst.isValidBST(root1);
+
         assert isValidBST(root1) : "Test 1 Failed";
 
         // Test 2: Invalid BST

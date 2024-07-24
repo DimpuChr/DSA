@@ -23,6 +23,10 @@ public class MergeTwoSortedList {
         CustomLL answer = new CustomLL();
         CustomLL customLL = answer.mergeTwoSortedList(list1, list2);
         customLL.display();
+        System.out.println("::::::::::::::::::::::::::::::");
+        customLL.mergeTwoLists(list1,list2);
+        customLL.display();
+
 
     }
 }

@@ -12,6 +12,7 @@ public class FinTheDuplicateNum {
 
         //int[] arr = {3,0,1};
         int[] arr = {3,1,3,4,2};
+        //findDuplicate(arr);
         sort(arr);
         System.out.println(Arrays.toString(arr));
         for (int i = 0; i < arr.length; i++) {
@@ -37,5 +38,20 @@ public class FinTheDuplicateNum {
         int temp = arr[first];
         arr[first] = arr[second];
         arr[second] = temp;
+    }
+
+    public static int findDuplicate(int[] nums) {
+        for(int i=0;i<nums.length;i++)
+        {
+            int num = Math.abs(nums[i]);
+            int idx=num-1;
+            if(nums[idx]<0)
+            {
+                return num;
+            }
+
+            nums[idx]=-nums[idx];
+        }
+        return -1;
     }
 }

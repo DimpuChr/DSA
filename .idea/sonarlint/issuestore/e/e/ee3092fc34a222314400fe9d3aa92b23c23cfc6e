@@ -1,0 +1,17 @@
+
+Q
+java:S1066"/Merge this if statement with the enclosing one.(·ÕÀ„ùÿÿÿÿ8·Ü‹2
+Q
+java:S1066"/Merge this if statement with the enclosing one.(Ñ¿ÿÔıÿÿÿÿ8·Ü‹2
+Q
+java:S1066"/Merge this if statement with the enclosing one.(İ‚•²ûÿÿÿÿ8‘·Ü‹2
+r
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ÑÖÙƒıÿÿÿÿ8¦¡·Ü‹2
+r
+java:S1149("PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ÑÖÙƒıÿÿÿÿ8¨¡·Ü‹2
+o
+java:S3776
+"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(Üö¬Õ8°¡·Ü‹2
+t
+java:S3776&"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(¾‹Éüÿÿÿÿ8º¡·Ü‹2
+L	java:S106B"+Replace this use of System.out by a logger.(­¤•íùÿÿÿÿ8¾¡·Ü‹2

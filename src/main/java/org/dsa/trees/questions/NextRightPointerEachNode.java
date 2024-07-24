@@ -16,7 +16,7 @@ public class NextRightPointerEachNode {
             while(current != null){
                 current.left.next = current.right;
                 if(current.next != null){
-                    current.right.next = current.next.right;
+                    current.right.next = current.next.left;
                 }
                 current = current.next;
             }
