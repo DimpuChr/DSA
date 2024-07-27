@@ -1,0 +1,10 @@
+
+L	java:S106"+Replace this use of System.out by a logger.(ôôøùûÿÿÿÿ8ğÇÇğ2
+E
+java:S1172 "(Remove this unused method parameter "x".(®œıÉ8òÇÇğ2
+H
+java:S1481""+Remove this unused "maxSum" local variable.(É„Ú“8òÇÇğ2
+K
+java:S5413+")Verify that "remove()" is used correctly.(è¥¦™øÿÿÿÿ8ôÇÇğ2
+C
+java:S1168/"&Return an empty array instead of null.(¥¹ï8ÏŠªû2

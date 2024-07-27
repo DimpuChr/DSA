@@ -1,4 +1,4 @@
-package org.dsa.stackqueue;
+package org.dsa.stackqueue.basics;
 
 public class CustomStackGeneric<T> {
 

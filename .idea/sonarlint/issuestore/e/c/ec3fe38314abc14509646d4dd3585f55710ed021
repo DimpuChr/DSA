@@ -1,0 +1,7 @@
+
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÚâÎøøÿÿÿÿ8ô¬¥ü2
+i
+java:S1223"LRename this method to prevent any misunderstanding or make it a constructor.(ÿ—òÊ8õ¬¥ü2
+G	java:S106"+Replace this use of System.out by a logger.(â»µ±8‘­¥ü2
+N
+java:S1128"1Remove this unused import 'java.math.BigDecimal'.(êêŠ8“­¥ü2

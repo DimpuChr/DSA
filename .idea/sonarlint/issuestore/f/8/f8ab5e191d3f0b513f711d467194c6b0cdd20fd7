@@ -1,14 +1,15 @@
 
-]	java:S125"<This block of commented-out lines of code should be removed.(‘­à¹úÿÿÿÿ8×¸ïÀˆ2
-X	java:S125"<This block of commented-out lines of code should be removed.(¢»Ô8×¸ïÀˆ2
-G	java:S1062"+Replace this use of System.out by a logger.(û“—ú8Ù¸ïÀˆ2
-L	java:S1064"+Replace this use of System.out by a logger.(™ïüÏÿÿÿÿÿ8Ú¸ïÀˆ2
-L	java:S106:"+Replace this use of System.out by a logger.(èŸ¥•ıÿÿÿÿ8Û¸ïÀˆ2
-L	java:S106;"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8Û¸ïÀˆ2
-L	java:S106="+Replace this use of System.out by a logger.(ßŸ¡şÿÿÿÿ8Û¸ïÀˆ2
-I
-java:S2201@",The return value of "contains" must be used.(¯óóì8İ¸ïÀˆ2
+G	java:S106"+Replace this use of System.out by a logger.(ô¤„å8çğ»ÎŒ2
+L	java:S106"+Replace this use of System.out by a logger.(ÒæŸæÿÿÿÿÿ8ñğ»ÎŒ2
+X	java:S125 "<This block of commented-out lines of code should be removed.(ØûÈ8õğ»ÎŒ2
+X	java:S125""<This block of commented-out lines of code should be removed.(íšÛ8ùğ»ÎŒ2
+]	java:S125("<This block of commented-out lines of code should be removed.(¬¦¾êùÿÿÿÿ8úğ»ÎŒ2
+]	java:S125?"<This block of commented-out lines of code should be removed.(¡»¢üùÿÿÿÿ8ûğ»ÎŒ2
 R
 java:S1128"5Remove this unused import 'org.dsa.trees.basics.AVL'.(ÜİÑŒ8ß¸ïÀˆ2
 W
 java:S1128"5Remove this unused import 'org.dsa.trees.basics.BST'.(­¾¶¥úÿÿÿÿ8ß¸ïÀˆ2
+^
+java:S1128"<Remove this unused import 'org.dsa.trees.heaps.HeapsCustom'.(îıó¢úÿÿÿÿ8†ñ»ÎŒ2
+T
+java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿ8†ñ»ÎŒ2
