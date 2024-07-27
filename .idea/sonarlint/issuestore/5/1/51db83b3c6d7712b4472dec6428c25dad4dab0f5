@@ -1,4 +1,9 @@
 
-L	java:S106"+Replace this use of System.out by a logger.(®êúıÿÿÿÿ8ÈöÊş1
-G	java:S106"+Replace this use of System.out by a logger.(ô¤„å8Ğ’’Êş1
-]	java:S1250"<This block of commented-out lines of code should be removed.(ˆÈÔ‰şÿÿÿÿ8ÌöÊş1
+X	java:S125"<This block of commented-out lines of code should be removed.(¡ú´Ş8¨îÀŸ2
+L	java:S106"+Replace this use of System.out by a logger.(®êúıÿÿÿÿ8ÈöÊş1
+G	java:S106 "+Replace this use of System.out by a logger.(ô¤„å8Ğ’’Êş1
+t
+java:S3776%"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(œÚÈËşÿÿÿÿ8²îÀŸ2
+T
+java:S3972/"7Move this "if" to a new line or add the missing "else".(Ôÿ8´îÀŸ2
+]	java:S125J"<This block of commented-out lines of code should be removed.(ˆÈÔ‰şÿÿÿÿ8ÌöÊş1

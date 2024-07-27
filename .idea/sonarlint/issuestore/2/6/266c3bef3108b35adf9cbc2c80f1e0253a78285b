@@ -1,0 +1,8 @@
+
+G	java:S106"+Replace this use of System.out by a logger.(ç’¤™8óÎí‚2
+G	java:S106"+Replace this use of System.out by a logger.(ç’¤™8ôÎí‚2
+G	java:S106"+Replace this use of System.out by a logger.(Öû³œ8­İı‚2
+N
+java:S1128"1Remove this unused import 'java.math.BigDecimal'.(êêŠ8ôÎí‚2
+P
+java:S1128"3Remove this unused import 'java.math.RoundingMode'.(¿ì†‹8õÎí‚2
