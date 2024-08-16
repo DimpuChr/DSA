@@ -1,9 +1,13 @@
 
-_
-java:S2094"BRemove this empty class, write its code or make it an "interface".(àªÅö8²¤–‰2
+L	java:S106"+Replace this use of System.out by a logger.(„³äïúÿÿÿÿ8£Ÿ¤‘2
+L	java:S106"+Replace this use of System.out by a logger.(š¾¥Úÿÿÿÿÿ8¥Ÿ¤‘2
+G	java:S106"+Replace this use of System.out by a logger.(×Æáî8¦Ÿ¤‘2
+G	java:S106"+Replace this use of System.out by a logger.(×Æáî8§Ÿ¤‘2
+G	java:S1063"+Replace this use of System.out by a logger.(ô¤„å8ªŸ¤‘2
+L	java:S106L"+Replace this use of System.out by a logger.(ğÛşıÿÿÿÿ8ùŒ¡¤‘2
 Z
-java:S1128"=Remove this unused import 'org.dsa.trees.questions.TreeNode'.(¤Ä´«8¡²¤–‰2
+java:S1128"=Remove this unused import 'org.dsa.trees.questions.TreeNode'.(¤Ä´«8‡Ğ¤‘2
 e
-java:S1128"HRemove this unused import 'org.dsa.trees.questions.VerticalTraversalBT'.(…·Á8¡²¤–‰2
-C
-java:S1128"&Remove this unused import 'java.util'.(Î€ŒÙ8¡²¤–‰2
+java:S1128"HRemove this unused import 'org.dsa.trees.questions.VerticalTraversalBT'.(…·Á8‡Ğ¤‘2
+Z
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8‡Ğ¤‘2

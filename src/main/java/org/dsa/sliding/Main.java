@@ -9,13 +9,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        Set<Character> set = new HashSet<>();
-        set.add('c');
-        set.add('d');
-        System.out.println(set);
-        set.remove('c');
-        System.out.println(set);
-        System.out.println(set.size());
+        System.out.println("Darshan");
 
     }
 }

@@ -1,0 +1,6 @@
+
+G	java:S106"+Replace this use of System.out by a logger.(¤âŒè8´–¿Ë2
+V
+java:S3400 "9Remove this method and declare a constant for this value.(”·³›8Ÿ¢ŸÌ2
+N
+java:S1172"2Remove these unused method parameters "nums", "k".(½ó™8 ¢ŸÌ2
