@@ -1,0 +1,14 @@
+
+L	java:S106"+Replace this use of System.out by a logger.(ÖˆŸºøÿÿÿÿ8œ¡§2
+F
+java:S1905")Remove this unnecessary cast to "double".(†Í¤ƒ8 ¡§2
+K
+java:S1905$")Remove this unnecessary cast to "double".(¬©Œÿùÿÿÿÿ8 ¡§2
+t
+java:S3776)"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(Ø«·Àúÿÿÿÿ8¬±¡§2
+D
+java:S16592""Declare "high" on a separate line.(™­ûÌıÿÿÿÿ8­±¡§2
+Š
+java:S2234,"hParameters to findMedianSortedArrays have the same names but not the same order as the method arguments.(—Ö Ãûÿÿÿÿ8®±¡§2
+K
+java:S1905B")Remove this unnecessary cast to "double".(éæÎšúÿÿÿÿ8°±¡§2
