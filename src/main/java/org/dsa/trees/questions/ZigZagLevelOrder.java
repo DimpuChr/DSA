@@ -55,5 +55,44 @@ public class ZigZagLevelOrder {
         return result;
 
     }
+
+    public static void main(String[] args) {
+
+
+    }
+    public List<List<Integer>> zigzagLevelOrder(TreeNode root) {
+        List<List<Integer>> list = new ArrayList<>();
+        if(root == null){
+            return list;
+        }
+        Queue<TreeNode> queue = new LinkedList<>();
+        queue.offer(root);
+        int count =1;
+        while (!queue.isEmpty()){
+            int levelSize = queue.size();
+            List<Integer> list1 = new ArrayList<>();
+            for (int i=0; i< levelSize ; i++){
+                TreeNode node = queue.poll();
+                list1.add(node.val);
+                if(node.left != null){
+                    queue.offer(node.left);
+                }
+                if(node.right != null){
+                    queue.offer(node.right);
+                }
+            }
+            if((count & 1) !=0){
+                list.add(list1);
+            }else {
+                Collections.reverse(list1);
+                list.add(list1);
+            }
+            count++;
+        }
+        return list;
+
+
+    }
+
 }
 
