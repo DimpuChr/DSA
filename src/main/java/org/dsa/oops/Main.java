@@ -1,48 +1,49 @@
 package org.dsa.oops;
 
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.LinkedHashMap;
-import java.util.List;
+import java.util.*;
+import java.util.stream.Collectors;
 
 public class Main {
 
-    private int rollName;
-    private String name;
-
-    public Main(int rollName, String name) {
-        this.rollName = rollName;
-        this.name = name;
-    }
-
     public static void main(String[] args) {
 
-        int[] arr ={1,2,3,4};
-        System.out.println(Arrays.toString(productExceptSelf(arr)));
+       List<String> list = null;
+       System.out.println(list);
+        list =get(Arrays.asList("Darshan"));
+        System.out.println(list);
+        list = get(Arrays.asList("Dimpu"));
+
+        System.out.println(list);
+
+
+        String s= " ";
+
+        if(!s.isBlank()){
+            System.out.println("KKKKKKKKKK");
+
+        }
+        List<String> listt = new ArrayList<>(Arrays.asList("suma"));
+        listt.add("demon");
+
+        List<String> collect = listt.stream().distinct().collect(Collectors.toList());
+
+        System.out.println(collect);
+
+        int[] arr = {1,2,3};
+        System.out.println(arr.length);
+
+        int closSum = 4;
+        int currentSum = 3;
+
+        System.out.println("::::::::");
+        System.out.println(Math.abs(closSum-1));
+        System.out.println(Math.abs(currentSum-1));
     }
 
-    public static int[] productExceptSelf(int[] nums) {
-
-        int n = nums.length;
-        int[] result = new int[n];
-
-        // Initialize the result array with 1 for the multiplication identity
-        result[0] = 1;
-
-        // First pass: calculate products of elements to the left of each element
-        for (int i = 1; i < n; i++) {
-            result[i] = result[i - 1] * nums[i - 1];
-        }
-
-        // Second pass: calculate products of elements to the right of each element
-        int rightProduct = 1;
-        for (int i = n - 1; i >= 0; i--) {
-            result[i] = result[i] * rightProduct;
-            rightProduct = rightProduct * nums[i];
-        }
-
-        return result;
-
+    static List<String> get(List<String> list){
+        List<String> ll = new ArrayList<>();
+        ll = list;
+        return ll;
     }
 
 

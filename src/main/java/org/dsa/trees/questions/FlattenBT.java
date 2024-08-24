@@ -7,7 +7,7 @@ public class FlattenBT {
     //once all traversal done remove queue one by one and make linkedlist
     //the time complexity is O(n) and time complexity is also O(n)
     //without using extraspace we can solve by modiying the actual node
-    //the idea is very simple first move to the node left and find the last right ,ost node that has null
+    //the idea is very simple first move to the node left and find the last right ,most node that has null
     //the add cuurent right to the rightmost node
     //next move current node to cuurent node right
 
