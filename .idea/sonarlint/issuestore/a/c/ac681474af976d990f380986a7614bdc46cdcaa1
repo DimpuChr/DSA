@@ -1,6 +1,14 @@
 
-G	java:S106"+Replace this use of System.out by a logger.(úˆş8‰¤çÒ•2
-O
-java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8Š¤çÒ•2
-V
-java:S1128"4Remove this unused import 'java.util.LinkedHashMap'.(ò†ŠŞùÿÿÿÿ8‹¤çÒ•2
+L	java:S106"+Replace this use of System.out by a logger.(ã¿¢Ôùÿÿÿÿ8†æÆƒ˜2
+L	java:S106"+Replace this use of System.out by a logger.(ã¿¢Ôùÿÿÿÿ8‡æÆƒ˜2
+L	java:S106"+Replace this use of System.out by a logger.(ã¿¢Ôùÿÿÿÿ8‡æÆƒ˜2
+L	java:S106"+Replace this use of System.out by a logger.(‘¤Ùúüÿÿÿÿ8ˆæÆƒ˜2
+t
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(™Ñ¬Ÿùÿÿÿÿ8ŠæÆƒ˜2
+L	java:S106"+Replace this use of System.out by a logger.(š—“¿ÿÿÿÿÿ8ŠæÆƒ˜2
+G	java:S106!"+Replace this use of System.out by a logger.(¨•ÍË8‹æÆƒ˜2
+G	java:S106&"+Replace this use of System.out by a logger.(ÙùÈò8ŒæÆƒ˜2
+G	java:S106'"+Replace this use of System.out by a logger.(¿öŸñ8²¦Çƒ˜2
+G	java:S106("+Replace this use of System.out by a logger.(Ûôµ8‘«Èƒ˜2
+R
+java:S1854,"6Remove this useless assignment to local variable "ll".(‰íù<8ŒæÆƒ˜2

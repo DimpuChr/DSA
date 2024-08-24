@@ -1,0 +1,11 @@
+
+9
+java:S1643*"Use a StringBuilder instead.(³¡ßÉ8†˜Ò°—2
+G	java:S106A"+Replace this use of System.out by a logger.(Û„§û8š˜Ò°—2
+L	java:S106B"+Replace this use of System.out by a logger.(×­æûÿÿÿÿ8œ˜Ò°—2
+L	java:S106C"+Replace this use of System.out by a logger.(­«®èıÿÿÿÿ8˜Ò°—2
+L	java:S106D"+Replace this use of System.out by a logger.(£›Ÿòúÿÿÿÿ8˜Ò°—2
+P
+java:S1128".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ8š½°—2
+L
+java:S1128"*Remove this unused import 'java.util.Map'.(¼è½Òşÿÿÿÿ8š½°—2
