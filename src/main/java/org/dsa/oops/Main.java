@@ -7,15 +7,27 @@ public class Main {
 
     public static void main(String[] args) {
 
-        int abs = Math.abs(1 - 4);
-        System.out.println(abs);
+        int[] nums = {20,100,10,12,5,13};
+        System.out.println(check(nums));
+
+    }
+    public static boolean check(int[] nums){
+        int count =0;
+        for (int i = 1; i < nums.length; i++) {
+            if(nums[i] > nums[i-1]){
+                count++;
+                if(count== 2){
+                    return  true;
+                }
+            }else{
+                count = 0;
+            }
+        }
+        return false;
     }
 
-    static List<String> get(List<String> list){
-        List<String> ll = new ArrayList<>();
-        ll = list;
-        return ll;
-    }
+
+
 
 
 }

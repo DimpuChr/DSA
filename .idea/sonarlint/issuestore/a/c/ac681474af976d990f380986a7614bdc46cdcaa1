@@ -1,6 +1,6 @@
 
-L	java:S106"+Replace this use of System.out by a logger.(’§‡Ýûÿÿÿÿ8ž™õÎ™2
-R
-java:S1854"6Remove this useless assignment to local variable "ll".(‰íù<8¢™õÎ™2
+G	java:S106"+Replace this use of System.out by a logger.(˜øšÃ8ó˜«å2
+C
+java:S1128"&Remove this unused import 'java.util'.(Î€ŒÙ8ö˜«å2
 Z
-java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8¶™õÎ™2
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8ö˜«å2
