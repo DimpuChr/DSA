@@ -1,8 +1,6 @@
-package org.dsa.graphs;
+package org.dsa.graphs.concepts;
 
-import java.lang.reflect.Array;
 import java.util.ArrayList;
-import java.util.Arrays;
 
 public class ExampleMain {
 

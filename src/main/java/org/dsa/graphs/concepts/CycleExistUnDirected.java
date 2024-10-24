@@ -1,4 +1,4 @@
-package org.dsa.graphs;
+package org.dsa.graphs.concepts;
 
 import java.util.ArrayList;
 
