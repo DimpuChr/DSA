@@ -1,0 +1,26 @@
+
+‚
+java:S1319ó"dThe type of "list" should be an interface such as "List" rather than the implementation "ArrayList".(àÀÔ‘8½ó•ı´2
+‡
+java:S1319€"dThe type of "list" should be an interface such as "List" rather than the implementation "ArrayList".(Ú¦Õòùÿÿÿÿ8¾ó•ı´2
+p
+java:S1104ˆ"RMake height a static final constant or non-public and provide accessors if needed.(ñ½8¿ó•ı´2
+r
+java:S1104‰"TMake diameter a static final constant or non-public and provide accessors if needed.(éÈ«È8¿ó•ı´2
+n
+java:S1104•"PMake left a static final constant or non-public and provide accessors if needed.(ó÷ÔÄ8¿ó•ı´2
+o
+java:S1104–"QMake right a static final constant or non-public and provide accessors if needed.(Ö¢è¥8¿ó•ı´2
+]	java:S125"<This block of commented-out lines of code should be removed.(Ò’ºøÿÿÿÿ8™õ•ı´2
+L	java:S106&"+Replace this use of System.out by a logger.(¶úƒºûÿÿÿÿ8šõ•ı´2
+L	java:S106/"+Replace this use of System.out by a logger.(¶úƒºûÿÿÿÿ8›õ•ı´2
+L	java:S1069"+Replace this use of System.out by a logger.(¶úƒºûÿÿÿÿ8œõ•ı´2
+G	java:S106D"+Replace this use of System.out by a logger.(üâ–Ö8Ÿõ•ı´2
+L	java:S106M"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8Ÿõ•ı´2
+L	java:S106b"+Replace this use of System.out by a logger.(³ğ¸ûÿÿÿÿ8¡õ•ı´2
+M	java:S106¤"+Replace this use of System.out by a logger.(¡ò†şÿÿÿÿ8§õ•ı´2
+M	java:S106¼"+Replace this use of System.out by a logger.(³ğ¸ûÿÿÿÿ8¨õ•ı´2
+H	java:S106½"+Replace this use of System.out by a logger.(»¤öş8¨õ•ı´2
+M	java:S106ê"+Replace this use of System.out by a logger.(Şùûûÿÿÿÿ8¬õ•ı´2
+H	java:S106‚"+Replace this use of System.out by a logger.(ßøõ÷8¯õ•ı´2
+M	java:S106„"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8°õ•ı´2

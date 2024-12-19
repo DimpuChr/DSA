@@ -19,50 +19,54 @@ public class DijkarsAlgorithm {
 
         PriorityQueue<Pair> pq = new PriorityQueue<>();
         int[] dist = new int[V];
+
+        //initialize distance
         for (int i = 0; i < V; i++) {
-             if(i != source){
-                 dist[i] = Integer.MAX_VALUE;
-             }
+                 dist[i] = Integer.MAX_VALUE; // Infinite distance initially
         }
-        boolean[] vis = new boolean[V];
-        pq.add(new Pair(0,0));
+        dist[source] = 0; // Distance to the source is zero
+        boolean[] vis = new boolean[V]; // To track visited nodes
+        pq.add(new Pair(source,0)); // Add source to the priority queue
 
         while (!pq.isEmpty()){
             Pair remove = pq.remove();
-            if(!vis[remove.node]){
-                vis[remove.node] = true;
+            int currentNode = remove.node;
+            if(!vis[currentNode]){
+                vis[currentNode] = true;
 
-                for (int i = 0; i < graph[remove.node].size(); i++) {
-                    EdgeWeight edgeWeight = graph[remove.node].get(i);
-                    int u = edgeWeight.source;
-                    int v = edgeWeight.destination;
+                // Relax neighbors
+                for (int i = 0; i < graph[currentNode].size(); i++) {
+                    EdgeWeight edgeWeight = graph[currentNode].get(i);
+                    //int u = edgeWeight.source;
+                    int neighbor = edgeWeight.destination;
+                    int weight = edgeWeight.weight;
                     //Relaxation
-                    if(dist[u] + edgeWeight.weight < dist[v]){
-                        dist[v] = dist[u] + edgeWeight.weight;
-                        pq.add(new Pair(v,dist[v]));
+                    if(dist[currentNode] + weight < dist[neighbor]){
+                        dist[neighbor] = dist[currentNode] + weight;
+                        pq.add(new Pair(neighbor,dist[neighbor]));
                     }
                 }
             }
 
         }
 
-        return dist;
+        return dist; // Return the shortest distances
 
 
     }
 
     public  static class Pair implements Comparable<Pair>{
-        int node;
-        int dest;
+        int node; // Node index
+        int distance; // Distance from source
 
         public Pair(int node, int dest) {
             this.node = node;
-            this.dest = dest;
+            this.distance = dest;
         }
 
         @Override
         public int compareTo(Pair p2) {
-            return this.dest - p2.dest;
+            return this.distance - p2.distance; // Min-heap based on distance
         }
     }
 }

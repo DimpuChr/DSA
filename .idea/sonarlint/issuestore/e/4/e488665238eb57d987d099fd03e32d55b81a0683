@@ -1,0 +1,15 @@
+
+V	java:S125"<This block of commented-out lines of code should be removed.(’Éáòÿÿÿÿÿ
+W
+java:S1659"ADeclare "cost" and all following declarations on a separate line.(üŸ½Õ
+H
+java:S1659C"+Declare "neighbourNode" on a separate line.(šîØß8ş‚Íû¼2
+^
+java:S1659P"HDeclare "destination" and all following declarations on a separate line.(ùÈ¨ƒ
+n
+java:S1210d"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(Øã"
+\
+java:S1659["ADeclare "cost" and all following declarations on a separate line.(ª©²ùøÿÿÿÿ
+V
+java:S1659y"@Declare "dst" and all following declarations on a separate line.(ğ¹†ÿ
+E	java:S106"+Replace this use of System.out by a logger.(‹ü¾¶şÿÿÿÿ

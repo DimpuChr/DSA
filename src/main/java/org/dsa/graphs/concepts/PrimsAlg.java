@@ -16,7 +16,7 @@ public class PrimsAlg {
     public static int findMST(ArrayList<EdgeWeight>[] graph, int source, int V){
 
         PriorityQueue<Pair> pq = new PriorityQueue<>();//non mst
-        pq.add(new Pair(source,source));
+        pq.add(new Pair(source,0));
         boolean[] vis = new boolean[V];//mst
         int mostCost = 0;
         while (!pq.isEmpty()){

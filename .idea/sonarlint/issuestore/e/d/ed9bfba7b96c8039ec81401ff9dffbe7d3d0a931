@@ -1,0 +1,7 @@
+
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ª¸¥©úÿÿÿÿ8²´Ê¶2
+l	java:S117'"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Òáñw8³´Ê¶2
+W	java:S107>"<Method has 8 parameters, which is greater than 7 authorized.( ñÀx8™ž´Ê¶2
+G	java:S1069"+Replace this use of System.out by a logger.(„œäÖ8£ž´Ê¶2
+8
+java:S3626I"Remove this redundant jump.(ÉŠ©ƒ8¤ž´Ê¶2
